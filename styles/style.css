@@ -60,6 +60,7 @@ nav a {
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
+
 .main-title {
     max-width: 583px;
     width: 100%;
@@ -74,4 +75,18 @@ nav a {
     line-height: 76px;
     letter-spacing: 0.02em;
     color: #1B0A42;
+}
+
+.main-info {
+    max-width: 583.48px;
+    width: 100%;
+    height: 96px;
+    padding-left: 200px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
 }
