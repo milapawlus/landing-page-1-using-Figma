@@ -60,3 +60,18 @@ nav a {
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
+.main-title {
+    max-width: 583px;
+    width: 100%;
+    height: 150px;
+    margin-left: 200px;
+    margin-top: 280.71;
+    margin-bottom: 5px;
+    font-family: 'Ramaraja';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 76px;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+}
